@@ -13,7 +13,7 @@ env:
   - DEMYX_USERNAME=demyx DEMYX_REPOSITORY=ouroboros
 
 before_install:
-  - docker pull traefik
+  - docker pull pyouroboros/ouroboros
 
 script:
   - docker build --no-cache -t demyx/"$DEMYX_REPOSITORY" .
