@@ -5,6 +5,8 @@
 [![Alpine](https://img.shields.io/badge/alpine-3.9.2-informational?style=flat&color=blue)](https://hub.docker.com/r/demyx/ouroboros)
 [![Ouroboros](https://img.shields.io/badge/ouroboros-1.4.2-informational?style=flat&color=blue)](https://hub.docker.com/r/demyx/ouroboros)
 [![Buy Me A Coffee](https://img.shields.io/badge/buy_me_coffee-$5-informational?style=flat&color=blue)](https://www.buymeacoffee.com/VXqkQK5tb)
+[![Become a Patron!](https://img.shields.io/badge/become%20a%20patron-$5-informational?style=flat&color=blue)](https://www.patreon.com/bePatron?u=23406156)
+[![Become a Patron!](https://img.shields.io/badge/become%20a%20patron-$5-informational?style=flat&color=blue)](https://www.patreon.com/bePatron?u=23406156)
 
 Non-root Docker image running Alpine Linux and Ouroboros. [Ouroboros](https://github.com/pyouroboros/ouroboros) will monitor (all or specified) running docker containers and update them to the (latest or tagged) available image in the remote registry. The updated container uses the same tag and parameters that were used when the container was first created such as volume/bind mounts, docker network connections, environment variables, restart policies, entrypoints, commands, etc.
 
