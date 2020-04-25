@@ -22,7 +22,7 @@ ENTRYPOINT | ["ouroboros"]
 [![Stars](https://img.shields.io/github/stars/demyxco/ouroboros?style=flat&color=blue)](https://github.com/demyxco/ouroboros)
 [![Forks](https://img.shields.io/github/forks/demyxco/ouroboros?style=flat&color=blue)](https://github.com/demyxco/ouroboros)
 
-* Auto built weekly on Sundays (America/Los_Angeles)
+* Auto built weekly on Saturdays (America/Los_Angeles)
 * Rolling release updates
 * For support: [#demyx](https://webchat.freenode.net/?channel=#demyx)
 
